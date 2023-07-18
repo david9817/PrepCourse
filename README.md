@@ -1,2 +1,2 @@
 # PrepCourse
-este e sun repositorio de prueba del prep course de henry
+este es un repositorio de prueba del prep course de henry
